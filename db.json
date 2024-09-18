@@ -1,0 +1,40 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "name": "Douglas Veríssimo",
+        "email": "douglas@example.com",
+        "password": "senha123"
+      },
+      {
+        "id": "2",
+        "name": "Luna Carolina",
+        "email": "lunacarolina@example.com",
+        "password": "senha456"
+      },
+      {
+        "id": "3",
+        "name": "Nina Maria",
+        "email": "ninamaria@example.com",
+        "password": "senha789"
+      },
+      {
+        "id": "4",
+        "name": "Aracelly Veríssimo",
+        "email": "aracellymaria@example.com",
+        "password": "senhaABC"
+      },
+      {
+        "id": "5",
+        "name": "Elizabete Veríssim",
+        "email": "elizabeteverissimo@example.com",
+        "password": "senhaDEF"
+      },
+      {
+        "id": "7541",
+        "name": "Douglas Antonni",
+        "email": "douglasantonny@hotmail.com",
+        "password": "123456"
+      }
+    ]
+  }
